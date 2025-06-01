@@ -1,0 +1,75 @@
+# Green Life - Tree Awareness & Conservation
+
+Green Life is a web project dedicated to promoting tree conservation, environmental awareness, and community engagement. The site features information about our mission, testimonials, resources, community stats, FAQs, and ways to get involved.
+
+## Features
+
+- **Responsive Design:** Works on desktop and mobile devices.
+- **Navigation:** Easy access to all site sections.
+- **Hero Section:** Promotes the tree conservation pledge.
+- **Mission Grid:** Highlights key conservation activities.
+- **Testimonial Carousel:** Rotating volunteer testimonials.
+- **Resource Grid:** Guides, maps, webinars, and tools.
+- **Community Stats:** Live stats for members, trees planted, and countries.
+- **FAQ Accordion:** Interactive frequently asked questions.
+- **Footer:** Contact info and social media links.
+
+## Getting Started
+
+### Prerequisites
+
+- Modern web browser
+- [Node.js](https://nodejs.org/) (optional, for development tools)
+
+### Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/yourusername/green-life.git
+   cd green-life
+   ```
+
+2. **Open the project:**
+   - Open `index.html` in your browser to view the site.
+
+3. **(Optional) Install dependencies:**
+   - If you plan to use build tools or package managers, install dependencies as needed.
+
+### File Structure
+
+```
+/css
+  style.css
+/js
+  carousel.js
+  faq.js
+  script.js
+index.html
+README.md
+```
+
+## Usage
+
+- **Navigation:** Use the menu to jump to different sections.
+- **Pledge:** Click "Pledge Now" to join the movement.
+- **Testimonials:** Use arrows to browse volunteer stories.
+- **FAQ:** Click a question to expand the answer.
+
+## Customization
+
+- Update content in `index.html` as needed.
+- Adjust styles in `css/style.css`.
+- Add or modify scripts in the `js/` folder.
+
+## Credits
+
+- [Font Awesome](https://fontawesome.com/) for icons.
+- Inspired by global conservation efforts.
+
+## License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+---
+
+*Built with ❤️ for a greener planet!*
